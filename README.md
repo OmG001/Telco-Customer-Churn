@@ -1,2 +1,2 @@
-# Road-Accident
-Excel Dashboard on road accident data to get the reasons behind the accidents, total causalities with their type.
+# Telco- Customer-Churn
+Analysed Telecom Company data using Python language visualized charts and made reports on why customer churn.
